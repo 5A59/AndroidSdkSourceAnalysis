@@ -3,7 +3,7 @@ ANDROID SDK 源码解析
 
 ![](https://github.com/yuxingxin/AndroidWidgetClassGraph/blob/master/img/android.jpg)
 
-#### GitHub小伙伴公众号，每周一篇大神人物专访，欢迎扫码关注！
+#### GitHub小伙伴公众号，欢迎扫码关注！
 
 <img src="https://raw.githubusercontent.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/master/images/qrcode.jpg" width="156" height="156">
 
@@ -220,10 +220,6 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
     	<td>heavenxue</td>
     </tr>
     <tr>
-    	<td>CollapsingToolbarLayout源码解析</td>
-    	<td>fever324</td>
-    </tr>
-    <tr>
     	<td>PopupWindow源码解析</td>
     	<td>GJson</td>
     </tr>
@@ -263,6 +259,14 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
       <td>EditText源码解析</td>
       <td>johnwatsondev</td>
     </tr>
+    <tr>
+      <td>TextureView源码解析</td>
+      <td>BeEagle</td>
+    </tr>
+    <tr>
+     <td>AlarmManager源码解析</td>
+     <td>devzhan</td>
+    </tr>
     </tbody>
 </table>
 
@@ -282,10 +286,6 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
   <tbody>
   <tr>
      <td>ActionBar源码解析</td>
-     <td>未认领</td>
-    </tr>
-    <tr>
-     <td>AlarmManager源码解析</td>
      <td>未认领</td>
     </tr>
    <tr>
@@ -340,10 +340,6 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
      <td>TableLayout源码解析</td>
       <td>未认领</td>
     </tr>
-       <tr>
-        <td>TextureView源码解析</td>
-        <td>未认领</td>
-        </tr>
   </tbody>
 </table>
 
@@ -438,6 +434,10 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>CollapsingToolbarLayout源码解析</td>
+      <td>未认领</td>
+    </tr>
    </tbody>
 </table>
 
